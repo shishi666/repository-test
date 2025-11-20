@@ -1,2 +1,1 @@
-# OK
 # repository-test
